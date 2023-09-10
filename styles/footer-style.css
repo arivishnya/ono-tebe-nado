@@ -4,13 +4,13 @@
   margin: 180px 50px 90px;
 }
 
-.footer .menu__links-list {
+.footer__menu-links-list {
   flex-direction: column;
   align-items: center;
   gap: 2px;
 }
 
-.footer .menu__links-list-item {
+.footer__menu-links-list-item {
   list-style: none;
 }
 
