@@ -90,6 +90,10 @@
   text-decoration: none;
 }
 
+.section__lots-look-more-link:hover {
+  opacity: 0.6;
+}
+
 
 .section__about {
   display: grid;
